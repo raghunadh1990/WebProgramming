@@ -1,0 +1,67 @@
+
+h2
+{
+	text-align:center;	
+}
+
+
+h3
+{
+	text-align:left;
+	background-color: blue;
+}
+
+
+body 
+{
+	font-family: "sans-serif";
+	background-image: url("home-design.jpg");
+	font-size: 20px;
+}
+
+.myclass
+{
+color:red;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+img
+{
+	width: 200px;
+    height: 200px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+table, tr
+{
+  border:0;
+  
+}
+table 
+{
+  border:0;
+
+  width: 83%;
+  margin-left:auto;
+  margin-right:auto;
+
+  
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+
+.table-striped-column > tbody > tr:nth-of-type(even) {
+    background-color: #f9f9f9;
+}
+
+
+
+
